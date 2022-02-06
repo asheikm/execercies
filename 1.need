@@ -1,0 +1,13 @@
+1. Develop url shortenr application ( Middleware/ Backend - Rest APIs)
+2. Code should be committed on github with private repo and should be commited on gradual basis and include me
+     as a reviewer ( will share my contibutor id later on teams)
+3. Deploy the application in heroku or local server (docker/kubernetes)
+4. Scale the application based on the numer of requests (use simulators to prove that scaling works)
+5. Generate bulk request and see if the application sustains
+6. Add support for ratelimiter (ablity to block ips )
+7. Build the application as rpm
+9. Build/Test using github actions
+10. Use code coverage tools and coverage should be more than 60%
+11. Use unit test framework
+
+Once the project is completed you need to present this to the team .
